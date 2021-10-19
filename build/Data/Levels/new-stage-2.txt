@@ -162,6 +162,7 @@ at   3396
 
 
 spawn    mrbig
+health   100
 boss 1
 coords  244 194
 at  3760
